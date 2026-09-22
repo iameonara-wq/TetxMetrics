@@ -1,0 +1,6 @@
+{
+  "name": "TextMetrics",
+  "description": "Free online word and character counter with real-time limits for Google SEO, LinkedIn, X, Instagram, and speech/reading time estimates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
